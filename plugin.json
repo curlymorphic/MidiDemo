@@ -1,0 +1,23 @@
+{
+  "slug": "MidiDemo",
+  "name": "MidiDemo",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "brand": "MidiDemo",
+  "author": "",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "CvOut",
+      "name": "CvOut",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
